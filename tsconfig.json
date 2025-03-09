@@ -15,5 +15,5 @@
     "expo-env.d.ts",
     "hooks/useLocation.jsx",
     "nativewind-env.d.ts"
-  ]
+, "components/TrendingCard.jsx", "components/MovieCard.jsx"  ]
 }
